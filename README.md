@@ -43,8 +43,6 @@ To view the project locally:
    ```bash
    git clone https://github.com/Mithun-AM/Amazon-clone.git
 
-## How to Run
-1. Clone the repository to your local machine.
 2. Open the index.html file in any modern web browser.
 
 ## Folder Structure
