@@ -2,7 +2,10 @@
 
 This project is a **single-page clone** of the Amazon website, showcasing its core layout and design elements. It is built using **HTML** and **CSS** with **Font Awesome** for icons, and serves as a demonstration of front-end design skills.
 
----
+## Deployment
+
+Here is the link to the deployed version of the game:  
+[Amazon Clone - GitHub Pages](https://mithun-am.github.io/Amazon-clone/)
 
 ## Features
 
