@@ -49,7 +49,7 @@ To view the project locally:
 
 ```plaintext
 .
-├── index.html           # Main HTML file
-├── style.css            # Stylesheet for styling
-├── images/              # Folder containing all image assets
-└── README.md            # Project documentation
+├── index.html           
+├── style.css            
+├── images/              
+└── README.md            
